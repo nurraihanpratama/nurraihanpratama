@@ -4,7 +4,7 @@ Hi, I'm Ray! 👋
 📍 Based in Batam, Indonesia
 🛠️ Tech Stack: Laravel, React, Next.js, TypeScript, Inertia.js
 🚀 Currently building: `shoping` and the Member loyalty system
-⚡ Fun fact: When I'm not coding or tinkering with PC hardware, I'm probably grinding CS2 or PUBG.
+⚡ Fun fact: When I'm not coding or tinkering with PC hardware, I'm probably grinding CS2 or Valorant.
 
 <!--
 **nurraihanpratama/nurraihanpratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
